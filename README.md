@@ -43,11 +43,3 @@ Restart your node server.
 Open the web application, fill out the form, and hit submit.
 
 You should receive a phone call.
-
-# How to get support
-
-If you have any issues whatsoever, join the [discord community](https://discord.gg/QvxDz8zcKe) and post a bug report. Our team is incredibly responsive and will help you as soon as possible.
-
-# More info about Bland AI
-
-We've built an API for sending and receiving phone calls with an AI voice agent. Check out our [discord community](https://discord.gg/QvxDz8zcKe). And read our [docs](https://docs.bland.ai/introduction) to see all the other crazy powerful applications you can build on Bland!
