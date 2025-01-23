@@ -1,17 +1,3 @@
-# Bland AI Inbound Lead Cookbook
-
-Welcome welcome! We built this cookbook to show off how to qualify an inbound lead within _five minutes_ of them submitting a form on your website.
-
-For context: it turns out if you call someone within five minutes, you have an 80% higher chance of closing them. Even though you can't wait by the phone all day, your AI phone agent can.
-
-We programmed this Bland AI phone agent to call inbound leads, qualify them, then transfer them to an account executive. If you want though, you can update the prompting to qualify the lead, then hang up the call. And then you could immediatley send a text message scheduling link.
-
-Learn more about [Bland AI](https://www.bland.ai).
-
-Sign up for a [developer account](https://app.bland.ai).
-
-Join the [discord community](https://discord.gg/QvxDz8zcKe).
-
 ![Drag Racing](./public/demoimage.png)
 
 ## Last bits of context
